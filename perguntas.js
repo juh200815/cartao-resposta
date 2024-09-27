@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'História',
+    'Qual foi a principal causa da primeira guerra mundial?',
+    'O assassinato do arquiduque Francisco Ferdinando da Áustria em 1914, entre outras tensões políticas e alianças'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é o rio mais longo do mundo?',
+    'É o Rio Nilo'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Qual é a função do GitHub?',
+    'Git é um sistema de controle de versão usado para rastrear mudanças no código fonte durante o desenvolvimento.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se forma uma frase no tempo futuro?',
+    'Geralmente usando "will" ou "going to". Exemplo: "I will go" ou "I am going to go".'
 )
